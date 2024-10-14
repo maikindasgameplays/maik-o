@@ -69,51 +69,51 @@ CriaCartao(
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Português',
+    'O que é uma oração subordinada?',
+    'É uma oração que depende de outra'
+
+)
+CriaCartao(
+    'Física',
+    'Qual é a unidade de medida da força no Sistema Internacional (SI)?',
+    'Newton (N).'
 
 )
 CriaCartao(
     'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Qual é o maior país do mundo em extensão territorial?',
+    'Rússia'
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'Marechal Deodoro da Fonseca'
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Química',
+    'Qual é a fórmula química da água?',
+    'H20'
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Filosofia',
+    'Qual é a principal ideia do filósofo René Descartes em sua obra "Meditações"?',
+    'Resposta: A dúvida como método de busca pela verdade, culminando na famosa frase "Penso, logo existo"'
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Biologia',
+    'O que é um ecossistema?',
+    'É uma comunidade de organismos que interagem entre si e com o ambiente em que vivem'
 
 )
 CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
-
-)
-CriaCartao(
-    'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Literatura',
+    'Qual obra é considerada a primeira do romantismo brasileiro?',
+    '"Iracema", de José de Alencar.'
 
 )
 
