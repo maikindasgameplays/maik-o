@@ -1,6 +1,6 @@
 CriaCartao(
     'História',
-    'A Política de Distensão, levada a cabo pelo General Ernesto Geisel, visava',
+    'A Política de Distensão, levada a cabo pelo General Ernesto Geisel, visava?',
     'acalmar a tensão política entre Governo e Oposição.'
 
 )
