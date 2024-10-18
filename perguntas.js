@@ -116,6 +116,16 @@ CriaCartao(
     '"Iracema", de José de Alencar.'
 
 )
+CriaCartao(
+    'Geografia',
+    'Qual a capital da ESpanha?',
+    'Madrid'
+)
+CriaCartao(
+    'Ciências',
+    'Quantos ossos tem no corpo do ser humano?',
+    '206'
+)
 
 
 
