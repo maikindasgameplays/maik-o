@@ -45,7 +45,7 @@ footer{
 }
 
 .conteudo-cartao h3{
-    position: nb;
+    position: absolute;
     text-align: left;
     color: var(--destaque);
     border: 1px solid var(--destaque);
