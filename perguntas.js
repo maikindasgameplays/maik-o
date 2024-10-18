@@ -6,8 +6,8 @@ CriaCartao(
 )
 CriaCartao(
     'Geografia',
-    'A Campanha das "Diretas-Já" foi um episódio marcante ocorrido na década de 1980, constituindo um dos significativos momentos do processo histórico brasileiro conhecido como:',
-    'redemocratização'
+    'Qual é a montanha mais alta do mundo?',
+    'Monte everest'
 
 )
 CriaCartao(
