@@ -40,7 +40,7 @@ CriaCartao(
 )
 CriaCartao(
     'Física',
-    'Qual é a lei da gravitação universal',
+    'Qual é a lei da gravitação universal?',
     'Todo corpo atrai outro com uma força proporcional à massa'
 
 )
