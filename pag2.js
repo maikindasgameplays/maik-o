@@ -5,7 +5,7 @@ function CriaCartao(categoria, pergunta, resposta){
     cartao.innerHTML = `
     <div class="conteudo-cartao">
         <h3>${categoria}</h3>
-        <div class="pergunta-cartao">
+        <div class="pergunta-cartao" onclick="MostrarRresposta"(this)>
             <p>${pergunta}</p>
         </div>
         <div class="resposta-cartao">
@@ -24,7 +24,7 @@ function CriaCartao(categoria, pergunta, resposta){
     container.appendChild(cartao);
     }
 
-    function MostraRresposta(card){
+    function MostrarRresposta(card){
         const resposta = card.querySelector('resposta-cartao');
         if(resposta.style.display === 'none'){
             resposta.style.display = 'block'
