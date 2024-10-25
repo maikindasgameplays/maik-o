@@ -32,3 +32,17 @@ footer{
    width: 100%;
    text-align: center;
 }
+
+#container{
+    display: grid;
+    gap: 3rem;
+    padding: 2rem;
+}
+
+.cartao{
+    background-color: var(--frente-cartao);
+    border: 1px solid var(--destaque);
+    padding: 40px;
+    color: var(--branco);
+    box-shadow: 5px 6px 25px var(--branco);
+}
