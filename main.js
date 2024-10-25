@@ -12,6 +12,11 @@ cartao.innerHTML = `
         <p>${resposta}</p>
     </div>
 </div>
-` 
+`
+let respostavisivel: false;
+function viracartao(){
+    respostavisivel=
+}
+
 container.appendChild(cartao);
 }
