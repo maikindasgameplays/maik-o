@@ -24,6 +24,7 @@ function CriaCartao(categoria, pergunta, resposta){
     container.appendChild(cartao);
     }
 
-    function MostraRresposta(){
-        
+    function MostraRresposta(card){
+        const resposta = card.querySelector('resposta-cartao');
+
     }
