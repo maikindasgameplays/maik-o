@@ -13,10 +13,13 @@ cartao.innerHTML = `
     </div>
 </div>
 `
-let respostavisivel: false;
+let respostavisivel= false;
 function viracartao(){
-    respostavisivel=
+    respostavisivel= !respostavisivel;
+    cartao.classList.toggle("active", respostavisivel);
 }
+
+cartao.addEventListener('click', viracartao);
 
 container.appendChild(cartao);
 }
