@@ -74,7 +74,7 @@ footer{
 
 .resposta-cartao{
     transform: rotateY(180deg);
-    background-color: var(--verso-cartao);
+    background-color: var(--fundo);
     color: var(--destaque);
     border: 2px solid var(--destaque);
 }
