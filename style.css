@@ -57,14 +57,15 @@ footer{
 }
 
 .conteudo-cartao h3{
-    position: ab;
+    position: absolute;
     text-align: left;
     color: var(--destaque);
     border: 1px solid var(--destaque);
     border-radius: 6rem;
     padding: 0.6rem;
     margin: 0.6rem;
-    font-size: 1vw;
+    font-size: 1.6vw;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
