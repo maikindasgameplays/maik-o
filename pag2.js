@@ -3,9 +3,9 @@ function CriaCartao(categoria, pergunta, resposta){
     let cartao = document.createElement('article');
     cartao.className = 'cartao';
     cartao.innerHTML = `
-    <div class="conteudo-cartao">
+    <div class="pergunta-cartao" onclick="MostrarRresposta"(this)>
         <h3>${categoria}</h3>
-        <div class="pergunta-cartao" onclick="MostrarRresposta"(this)>
+        <div class="pergunta-cartao"
             <p>${pergunta}</p>
         </div>
         <div class="resposta-cartao">
@@ -13,29 +13,15 @@ function CriaCartao(categoria, pergunta, resposta){
         </div>
     </div>
     `
-    let respostavisivel= false;
-    function viracartao(){
-        respostavisivel= !respostavisivel;
-        cartao.classList.toggle("active", respostavisivel);
-    }
-    
-    cartao.addEventListener('click', viracartao);
-    
     container.appendChild(cartao);
     }
-
     function MostrarRresposta(card){
         const resposta = card.querySelector('resposta-cartao');
         if(resposta.style.display === 'none'){
             resposta.style.display = 'block'
-
         }
         else{
             resposta.style.display = 'none'
 
         }
-
-        
-
-
     }
